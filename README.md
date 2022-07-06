@@ -27,13 +27,15 @@
 https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html
 
 ## 宮城先生に教えてもらった検査予約ウェブサイト
+このウェブサイトからは 4 日先の日程までの予約が取れる．
+
 https://www.walgreens.com/findcare/covid19/testing
 
 有効な検査法として安心なのは以下のふたつと思われる．
 
-PCR Laboratory Test（48時間必要）
+PCR Laboratory Test（48 時間必要．）
 
-Rapid NAAT Test
+**Rapid NAAT Test（2 時間で良い．）**
 
 検査方法については以下を参照のこと．
 
@@ -50,7 +52,7 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 https://thecentersohio.org/covid-19/
 
-TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる．）
+**TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる．）**
 
 https://www.tacklhealth.com/cleveland-hopkins-airport
 
