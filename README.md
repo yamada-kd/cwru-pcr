@@ -24,12 +24,12 @@
 
 詳しくは以下のウェブサイト参照のこと．
 
-https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html
+[https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html](https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html)
 
 ## 宮城先生に教えてもらった検査予約ウェブサイト
 このウェブサイトからは 4 日先の日程までの予約が取れる．
 
-https://www.walgreens.com/findcare/covid19/testing
+[https://www.walgreens.com/findcare/covid19/testing](https://www.walgreens.com/findcare/covid19/testing)
 
 有効な検査法として安心なのは以下のふたつと思われる．
 
@@ -39,20 +39,19 @@ PCR Laboratory Test（48 時間必要）
 
 検査方法については以下を参照のこと．
 
-https://www.mhlw.go.jp/content/000825143.pdf
+[https://www.mhlw.go.jp/content/000825143.pdf](https://www.mhlw.go.jp/content/000825143.pdf)
 
 ## 在デトロイト日本国総領事館がまとめていた情報
 以下のウェブサイトにオハイオ州の機関で日本政府の要件を満たす72時間以内の検査証明書を発行することが可能なものが載っている．
 
-https://www.detroit.us.emb-japan.go.jp/itpr_ja/11_000001_00142.html
+[https://www.detroit.us.emb-japan.go.jp/itpr_ja/11_000001_00142.html](https://www.detroit.us.emb-japan.go.jp/itpr_ja/11_000001_00142.html)
 
 抜き出すと以下のふたつ．
 
 Circle Health Services（ユニバーシティサークルに近い）
 
-https://thecentersohio.org/covid-19/
+[https://thecentersohio.org/covid-19/](https://thecentersohio.org/covid-19/)
 
 **TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）**
 
-https://www.tacklhealth.com/cleveland-hopkins-airport
-
+[https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
