@@ -62,11 +62,9 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 ## まとめ（中尾先生，荒木先生，サミーさん，シワリーに対するお勧め）
 
-### 空港付近で検査したい場合
+### 空港付近で検査したい場合（こっちをよりお勧めします）
 
-**以下の TACKL HEalth を利用されるのが良いと思います．**
-
-**事前にウェブサイトで予約されると良いと思います．**
+以下の TACKL HEalth を利用されるのが良いと思います．事前にウェブサイトで予約されると良いと思います．
 
 **TACKL Health**
 
@@ -82,4 +80,20 @@ Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegia
 
 時間： Monday-Sunday 6am-6pm
 
+おそらく陰性証明書の発行に慣れているでしょうからこちらでやった方がスムーズではないかと思います．
+
+現在皆様はユニバーシティサークル周辺に最終日のホテルをとっていますが，多元研の皆様と同じように最終日だけ以下のところにしても良いかもしれません．
+
+**Holiday Inn Express : Cleveland Airport - Brook Park**
+
 ### ユニバーシティサークル周辺で検査したい場合
+
+以下の Walgreens で付近の薬局を予約して利用されるのが良いと思います．
+
+**Walgreens**
+
+[https://www.walgreens.com/findcare/covid19/testing](https://www.walgreens.com/findcare/covid19/testing)
+
+**Rapid NAAT Test** を選択して検索して出てくる以下のところが良いと思います．
+
+9番 3020 MAYFIELD RD Cleveland Heights, OH 44118
