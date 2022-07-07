@@ -29,7 +29,7 @@
 ## 宮城先生に教えてもらった検査予約ウェブサイト
 このウェブサイトからは 4 日先の日程までの予約が取れる．
 
-**<span style="color:red;">CWRU 訪問後別行動をされる西さんはこれを利用されるとのこと．</span>**
+**CWRU 訪問後別行動をされる西さんはこれを利用されるとのこと．**
 
 [https://www.walgreens.com/findcare/covid19/testing](https://www.walgreens.com/findcare/covid19/testing)
 
@@ -56,7 +56,7 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 **TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）**
 
-**<span style="color:red;">多元研の皆様はこれを利用されるとのこと．</span>**
+**多元研の皆様はこれを利用されるとのこと．**
 
 [https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
 
@@ -86,7 +86,7 @@ Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegia
 
 **Holiday Inn Express : Cleveland Airport - Brook Park**
 
-**<span style="color:red;">GP-DS 関連の皆様の検査にかかる費用はデータ科学で負担します．</span>**
+**GP-DS 関連の皆様の検査にかかる費用はデータ科学で負担します．**
 
 ### ユニバーシティサークル周辺で検査したい場合
 
