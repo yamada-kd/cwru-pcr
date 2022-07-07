@@ -59,3 +59,27 @@ Circle Health Services（ユニバーシティサークルに近い）
 **<span style="color:red;">多元研の皆様はこれを利用されるとのこと．</span>**
 
 [https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
+
+## まとめ（中尾先生，荒木先生，サミーさん，シワリーに対するお勧め）
+
+### 空港付近で検査したい場合
+
+**以下の TACKL HEalth を利用されるのが良いと思います．**
+
+**事前にウェブサイトで予約されると良いと思います．**
+
+**TACKL Health**
+
+[https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
+
+以下の情報は和田先生より頂きました．
+
+検査費： Covid - 19 tests and Pricing Rapid RT-PCR - Avg. 30 Minutes: $275
+
+場所： Cleveland Hopkins International Airport 888-705-6576
+
+Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegiant.
+
+時間： Monday-Sunday 6am-6pm
+
+### ユニバーシティサークル周辺で検査したい場合
