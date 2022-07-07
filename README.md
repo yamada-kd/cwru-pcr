@@ -1,5 +1,5 @@
 # クリーブランド訪問時の PCR 検査について
-
+<span style="color: red; ">赤文字</span>
 ## PCR 検査について
 日本入国のために PCR 検査が必要．
 
