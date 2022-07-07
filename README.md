@@ -27,7 +27,9 @@
 [https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html](https://www.ny.us.emb-japan.go.jp/itpr_ja/News_2022-06-10_2.html)
 
 ## 宮城先生に教えてもらった検査予約ウェブサイト
-このウェブサイトからは 4 日先の日程までの予約が取れる．<span style="color:red;">CWRU 訪問後別行動をされる西さんはこれを利用されるとのこと．</span>
+このウェブサイトからは 4 日先の日程までの予約が取れる．
+
+**<span style="color:red;">CWRU 訪問後別行動をされる西さんはこれを利用されるとのこと．</span>**
 
 [https://www.walgreens.com/findcare/covid19/testing](https://www.walgreens.com/findcare/covid19/testing)
 
@@ -52,6 +54,8 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 [https://thecentersohio.org/covid-19/](https://thecentersohio.org/covid-19/)
 
-**TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）<span style="color:red;">多元研の皆様はこれを利用されるとのこと．</span>**
+**TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）**
+
+**<span style="color:red;">多元研の皆様はこれを利用されるとのこと．</span>**
 
 [https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
