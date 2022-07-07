@@ -86,6 +86,8 @@ Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegia
 
 **Holiday Inn Express : Cleveland Airport - Brook Park**
 
+**<span style="color:red;">GP-DS 関連の皆様の検査にかかる費用はデータ科学で負担します．</span>**
+
 ### ユニバーシティサークル周辺で検査したい場合
 
 以下の Walgreens で付近の薬局を予約して利用されるのが良いと思います．
