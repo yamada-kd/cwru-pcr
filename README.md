@@ -52,6 +52,6 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 [https://thecentersohio.org/covid-19/](https://thecentersohio.org/covid-19/)
 
-**TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）<span style="color:red;">CWRU 訪問後別行動をされる西さんはこれを利用されるとのこと．</span>**
+**TACKL Health（空港にとても近い，というか地図だと空港内にあるように見える．予約ページも簡単に見つかる）<span style="color:red;">多元研の皆様はこれを利用されるとのこと．</span>**
 
 [https://www.tacklhealth.com/cleveland-hopkins-airport](https://www.tacklhealth.com/cleveland-hopkins-airport)
