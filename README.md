@@ -72,13 +72,13 @@ Circle Health Services（ユニバーシティサークルに近い）
 
 以下の情報は和田先生より頂きました．
 
-検査費： Covid - 19 tests and Pricing Rapid RT-PCR - Avg. 30 Minutes: $275
-
-場所： Cleveland Hopkins International Airport 888-705-6576
-
-Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegiant.
-
-時間： Monday-Sunday 6am-6pm
+>検査費： Covid - 19 tests and Pricing Rapid RT-PCR - Avg. 30 Minutes: $275
+>
+>場所： Cleveland Hopkins International Airport 888-705-6576
+>
+>Pre-Security Departures Terminal TACKL Health ticketing counter, next to Allegiant.
+>
+>時間： Monday-Sunday 6am-6pm
 
 おそらく陰性証明書の発行に慣れているでしょうからこちらでやった方がスムーズではないかと思います．
 
